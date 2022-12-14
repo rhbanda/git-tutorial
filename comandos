@@ -5,4 +5,4 @@ COMANDO PARA CREAR UN BRANCH
 git checkout -b <nombre nuevo branch>
 
 COMANDO PARA HACER PUSH CON COSAS NUEVAS AL REPO REMOTO:
-git push origin -u <nombre del brach>
+git push -u origin <nombre del brach>
