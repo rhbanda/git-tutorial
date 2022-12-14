@@ -1,0 +1,8 @@
+COMANDO PARA CHECAR EN QUE BRANCH ESTOY:
+git branch 
+
+COMANDO PARA CREAR UN BRANCH
+git checkout -M <nombre nuevo branch>
+
+COMANDO PARA HACER PUSH CON COSAS NUEVAS AL REPO REMOTO:
+git push origin -u <nombre del brach>
