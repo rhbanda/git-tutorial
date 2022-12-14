@@ -6,3 +6,16 @@ git checkout -b <nombre nuevo branch>
 
 COMANDO PARA HACER PUSH CON COSAS NUEVAS AL REPO REMOTO:
 git push -u origin <nombre del brach>
+
+COMANDO PARA CAMBIARSE DE BRANCH
+git checkout <nombre del branch>
+
+COMANDO PARA CHECAR EN QUE ESTATUS ESTA EL BRANCH
+git status
+
+COMANDO PARA AGREGAR O RASTREAR ALGUN CAMBIO:
+git add <archivo o archivos a agregar>
+
+COMANDO PARA DAR COMMIT
+git commit -m "comentario"
+
